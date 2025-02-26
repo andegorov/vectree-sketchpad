@@ -2,4 +2,4 @@
 
 Assignment of a tutorial on creating Sketchpad  [Vectee](https://vectree.ru/)
 
-vectree-sketchpad.vercel.app
+https://vectree-sketchpad.vercel.app
